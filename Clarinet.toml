@@ -1,0 +1,34 @@
+[project]
+name = 'ShipChain'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.customs-clearance]
+path = 'contracts/customs-clearance.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.insurance-dispute]
+path = 'contracts/insurance-dispute.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.shipment-tracking]
+path = 'contracts/shipment-tracking.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.tokenized-ownership]
+path = 'contracts/tokenized-ownership.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
