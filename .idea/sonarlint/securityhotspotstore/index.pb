@@ -7,3 +7,5 @@ P
  contracts/shipment-tracking.clar,b/c/bcbdcba6f9f3abb1b8072b4e3086b3a92dee74c3
 O
 tests/shipment-tracking.test.ts,f/d/fdb010eb12ee0831254b5c4948c2170589e8880c
+P
+ contracts/insurance-dispute.clar,6/0/60bf0836eafd9d20fc1e5f6f7108d276ad793c6b
