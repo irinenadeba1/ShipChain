@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/shipment-tracking.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.tokenized-ownership]
+path = 'contracts/tokenized-ownership.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

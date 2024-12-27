@@ -55,6 +55,11 @@ plan:
             path: contracts/customs-clearance.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: insurance-dispute
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/insurance-dispute.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: shipment-tracking
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/shipment-tracking.clar
