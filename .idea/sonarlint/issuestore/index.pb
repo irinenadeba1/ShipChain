@@ -5,3 +5,5 @@ O
 tests/customs-clearance.test.ts,e/b/eb7d2221f1489f7a153372a12e879cae1f0ab0ea
 P
  contracts/shipment-tracking.clar,b/c/bcbdcba6f9f3abb1b8072b4e3086b3a92dee74c3
+O
+tests/shipment-tracking.test.ts,f/d/fdb010eb12ee0831254b5c4948c2170589e8880c
