@@ -13,3 +13,5 @@ O
 tests/insurance-dispute.test.ts,b/6/b653bd2c560f51ef89ee650790b3bbe7e8538535
 R
 "contracts/tokenized-ownership.clar,7/8/78a8c8a4d70cf30fef693de02d48a1a4840e2330
+Q
+!tests/tokenized-ownership.test.ts,1/a/1a864e955b96e0380f9ce5346aad55f2dedebb50
